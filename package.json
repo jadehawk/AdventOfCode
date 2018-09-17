@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jadehawk/AdventOfCode#readme",
   "dependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "md5": "^2.2.1"
   }
 }
