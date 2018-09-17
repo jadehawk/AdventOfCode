@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "My Collection of attempts to solve the AoC Puzzles in Order",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadehawk/AdventOfCode.git"
+  },
+  "author": "Paul Mejia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadehawk/AdventOfCode/issues"
+  },
+  "homepage": "https://github.com/jadehawk/AdventOfCode#readme"
+}
