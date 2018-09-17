@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jadehawk/AdventOfCode/issues"
   },
-  "homepage": "https://github.com/jadehawk/AdventOfCode#readme"
+  "homepage": "https://github.com/jadehawk/AdventOfCode#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
 }
